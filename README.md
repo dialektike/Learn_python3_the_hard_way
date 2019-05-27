@@ -1,0 +1,2 @@
+# Learn_python3_the_hard_way
+Learn_python3_the_hard_way 코드 작성용
